@@ -17,6 +17,8 @@ artifacts/*
 !artifacts/.gitkeep
 reports/
 screenshots/
+!evidence/screenshots/
+!evidence/screenshots/screen.png
 downloads/
 
 # OS files
