@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# Environment and secrets
+.env
+
+# IDE settings
+.idea/
+.vscode/
+
+# Test artifacts
+artifacts/*
+!artifacts/.gitkeep
+reports/
+screenshots/
+downloads/
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
