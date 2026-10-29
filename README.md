@@ -18,6 +18,8 @@ selenium-python-automation-portfolio/
 ├── src/ui_automation/pages/    # Page Object Model classes
 ├── tests/                      # Pytest end-to-end test and JSON data
 ├── examples/                   # Focused Selenium learning examples
+├── practice/                   # Complete course exercises, organized by topic
+├── evidence/                   # Original reports and screenshot evidence
 ├── docs/                       # Resume-ready project summary
 ├── requirements.txt            # Python dependencies
 └── pytest.ini                  # Pytest configuration and markers
@@ -65,6 +67,12 @@ python examples\file_handling\excel_data_demo.py path\to\workbook.xlsx
 ```
 
 The examples use public training applications and may need locator updates if those sites change.
+
+## Complete practice collection
+
+The practice directory preserves the complete original Selenium, Pytest, Page Object Model, Excel, and file-upload exercises in topic-based folders. The original virtual environment, Python caches, Pytest cache, and IDE settings are intentionally excluded because they are machine-generated rather than portfolio work.
+
+See practice/README.md for the full source-file map. The evidence directory contains the original HTML reports, CSS assets, and screenshot.
 
 ## Responsible test automation
 

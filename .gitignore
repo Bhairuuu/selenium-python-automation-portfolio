@@ -18,7 +18,6 @@ artifacts/*
 reports/
 screenshots/
 downloads/
-*.html
 
 # OS files
 .DS_Store
